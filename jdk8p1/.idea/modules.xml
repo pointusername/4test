@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_day02_account_annoioc/spring_day02_account_annoioc.iml" filepath="$PROJECT_DIR$/spring_day02_account_annoioc/spring_day02_account_annoioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_day02_account_annoioc_withoutxml/spring_day02_account_annoioc_withoutxml.iml" filepath="$PROJECT_DIR$/spring_day02_account_annoioc_withoutxml/spring_day02_account_annoioc_withoutxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_day03_proxy/spring_day03_proxy.iml" filepath="$PROJECT_DIR$/spring_day03_proxy/spring_day03_proxy.iml" />
+    </modules>
+  </component>
+</project>
